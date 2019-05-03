@@ -1,10 +1,11 @@
-###Continuous Assessment:
+### Continuous Assessment:
+
 Implement a simple IoT pipeline with AWS Cloud platform and visualise the data. We will simulate two small IoT setups that record and push data from two jet engines. Students need to write a guideline on how they set up the pipeline (which the pictures with their Matric No. inside)  Deadline: Sun 03 Mar 2019, 11:59:59 AM. Reports are to be sent to elenht@nus.edu.sg.
 
-###Requirements: 
+### Requirements: 
 AWS Free Tier account (visa/master is required for registration). A laptop with Anaconda 3 installed (Python >= 3.5).
 
-###Importance: 
+### Importance: 
 Put your Matric No. in all the naming convention in AWS setup: thing names, dataframe column and DynamoDB table name, so that scoring can be done.
 
 Students will implement a simple pipeline of pushing IoT data from devices to AWS and visualise it. The instructions for a "just-enough" submission are given as followed: 
@@ -19,7 +20,7 @@ Students will implement a simple pipeline of pushing IoT data from devices to AW
 
 5. Only after complete this module: cleaning all resources created to avoid recurring charge from AWS :)
 
-###References:
+### References:
 https://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html
 https://docs.aws.amazon.com/iot/latest/developerguide/topics.html
 
