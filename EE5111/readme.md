@@ -26,4 +26,4 @@ https://docs.aws.amazon.com/iot/latest/developerguide/topics.html
 
 You are encouraged to try other ideas outside of this engine data.
 
-You are encouraged to form a group of maximum 2 students and submit the same report (use two Matric No. in the IoT setup). The score of each will be the total score of the project divided by 1.5.
+You are encouraged to form a group of maximum 2 students and submit the same report (use two Matric No. in the IoT setup). The score X of this special report will be on the scale of 20 instead of 10, and each student receives equally X/20*15 marks.
