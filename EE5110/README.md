@@ -1,7 +1,7 @@
 # NUS ECE lecture
 This is a material for two lecture sessions about Predictive Maintenance. Link for dataset: Turbofan Engine Degradation Simulation Data Set, under https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/.
 
-Please proceed to the [Notebook](https://github.com/iceberg12/NUS_guest_lecture/blob/master/Prognostics%20Prediction.ipynb) for details.
+Please proceed to the [Notebook](https://github.com/iceberg12/NUS_guest_lecture/blob/master/EE5110/Prognostics%20Prediction.ipynb) for details. The data should be loaded from this [Input](https://github.com/iceberg12/NUS_guest_lecture/tree/master/input) folder.
 
 Proposed Procedure:
 1. Install Anaconda for Python 3, and Git.
