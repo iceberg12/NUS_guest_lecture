@@ -13,4 +13,3 @@ Proposed Procedure:
 7. Write report of 10 pages and submit before 28/09/2019 11:59:59 PM.
 8. Send the code and report to tuanminh.nus@gmail.com
 
-Slack channel: https://join.slack.com/t/nusprognosis/shared_invite/enQtNDI5NTg3MzU3NzQ0LTlmNjI2NTExYzFjNjBiMWU5YzA2YmY5OTg0MWEwZTA3ZTE4Zjk4ODhiOWE1ZDFiMGYyZDUxNmU5NWQ2NTAwYjc (Valid for 4 weeks from 06/09/2018)
