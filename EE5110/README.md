@@ -10,6 +10,7 @@ Proposed Procedure:
 4. Open Jupyter Notebook and run through the notebook and answer questions.
 5. Perform training and testing on all the four datasets to understand the difference among them.
 6. * Additional bonus: download the PHM08 dataset from the NASA link above and explore using the same method.
-7. Write report of 10 pages and submit before 22/09/2018 11:59:59 PM.
+7. Write report of 10 pages and submit before 28/09/2019 11:59:59 PM.
+8. Send the code and report to tuanminh.nus@gmail.com
 
 Slack channel: https://join.slack.com/t/nusprognosis/shared_invite/enQtNDI5NTg3MzU3NzQ0LTlmNjI2NTExYzFjNjBiMWU5YzA2YmY5OTg0MWEwZTA3ZTE4Zjk4ODhiOWE1ZDFiMGYyZDUxNmU5NWQ2NTAwYjc (Valid for 4 weeks from 06/09/2018)
