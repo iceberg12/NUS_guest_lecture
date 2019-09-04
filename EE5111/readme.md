@@ -1,3 +1,5 @@
+**For NUS students, please look at Project Guideline under LumiNUS for the most updated requirements.**
+
 ### Continuous Assessment:
 
 Implement a simple IoT pipeline with AWS Cloud platform and visualise the data. We will simulate two small IoT setups that record and push data from two jet engines. Students need to write a guideline on how they set up the pipeline (which the pictures with their Matric No. inside)  Deadline: Sun 03 Mar 2019, 11:59:59 AM. Reports are to be sent to elenht@nus.edu.sg.
