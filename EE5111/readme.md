@@ -12,7 +12,7 @@ Put your Matric No. in all the naming convention in AWS setup: thing names, data
 
 Students will implement a simple pipeline of pushing IoT data from devices to AWS and visualise it. The instructions for a "just-enough" submission are given as followed: 
 
-1. (Optional, highly recommended) Follow the AWS instruction to understand how to populate, send data from a computer to AWS through MQTT protocol. (https://docs.aws.amazon.com/iot/latest/developerguide/iot-plant-module1.html) 
+1. (Optional, highly recommended) Follow the AWS instruction to understand how to populate, send data from a computer to AWS through MQTT protocol. (https://docs.aws.amazon.com/iot/) 
 
 2. Publish pre-defined engine data to AWS.
 a. Download data for engines FD001 and FD002 from Github repo https://github.com/iceberg12/NUS_guest_lecture/tree/master/input. Understand more about the jet engine data (operating settings and sensors) from the document there.
